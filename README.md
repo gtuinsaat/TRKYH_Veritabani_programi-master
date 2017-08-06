@@ -10,3 +10,7 @@
 Programın çalışması ile ilgili olarak aşağıdaki videoyu seyredebilirsiniz. 
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/eGqAEPm9TQI/0.jpg)](http://www.youtube.com/watch?v=eGqAEPm9TQI "gtuinsaat")
+
+---
+* Bu programla ilgili öneri, eleştiri, hatalı bulduğunuz kısımlar varsa "Issue" yaratarak haber verebilirsiniz. 
+* Program GTÜ-İnşaat Mühendisliği bölümündeki eğitim ve araştırma çalışmalarına bağlı olarak geliştirilmiştir. Bu çalışmalarda yer almak isterseniz gtuinsaatmuhendisligi-at-gtu.edu.tr adresine eposta göndererek bizimle temasa geçebilirsiniz. 
