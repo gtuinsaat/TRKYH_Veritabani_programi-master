@@ -15,7 +15,7 @@ Programın çalışması ile ilgili olarak aşağıdaki videoyu seyredebilirsini
 
 11-13 Ekim 2017 tarihleri arasında Eskişehir'de düzenlenen 4. Uluslararası Deprem Mühendisliği ve Sismolokji konferansı için hazırladığımız sunumumuzu görmek ister misiniz?
 
-https://sway.com/piNCHFaDEvBw3axX?ref=Link
+[Sunum](https://gtu-my.sharepoint.com/personal/adindar_gtu_edu_tr/_layouts/15/guestaccess.aspx?docid=0726c13e55da14cf5b0f79cb9888181a3&authkey=AdlguzigiuIzvWy7jyzBCos)
 ---
 * Bu programla ilgili öneri, eleştiri, hatalı bulduğunuz kısımlar varsa "Issue" yaratarak haber verebilirsiniz. 
 * Program GTÜ-İnşaat Mühendisliği bölümündeki eğitim ve araştırma çalışmalarına bağlı olarak geliştirilmiştir. Bu çalışmalarda yer almak isterseniz gtuinsaatmuhendisligi-at-gtu.edu.tr adresine eposta göndererek bizimle temasa geçebilirsiniz. 
