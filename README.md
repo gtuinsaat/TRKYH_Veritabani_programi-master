@@ -11,5 +11,11 @@ Programın çalışması ile ilgili olarak aşağıdaki videoyu seyredebilirsini
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/eGqAEPm9TQI/0.jpg)](http://www.youtube.com/watch?v=eGqAEPm9TQI "gtuinsaat")
 ---
+## 4UDMSK
+
+11-13 Ekim 2017 tarihleri arasında Eskişehir'de düzenlenen 4. Uluslararası Deprem Mühendisliği ve Sismolokji konferansı için hazırladığımız sunumumuzu görmek ister misiniz?
+
+https://sway.com/piNCHFaDEvBw3axX?ref=Link
+---
 * Bu programla ilgili öneri, eleştiri, hatalı bulduğunuz kısımlar varsa "Issue" yaratarak haber verebilirsiniz. 
 * Program GTÜ-İnşaat Mühendisliği bölümündeki eğitim ve araştırma çalışmalarına bağlı olarak geliştirilmiştir. Bu çalışmalarda yer almak isterseniz gtuinsaatmuhendisligi-at-gtu.edu.tr adresine eposta göndererek bizimle temasa geçebilirsiniz. 
